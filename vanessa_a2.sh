@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Author: Bralyne Vanessa Matoukam
 factorial()
 {
     product=$1
